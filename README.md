@@ -4,7 +4,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/coming-soon-page-Xee_E89iDP)
 - Live Site URL: [Go to site](https://bright-llama-b1cdb5.netlify.app)
 
 ## My process
@@ -33,4 +33,4 @@ const mailFormat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kadan-develop)
+- Frontend Mentor - [@kadan-develop](https://www.frontendmentor.io/profile/kadan-develop)
